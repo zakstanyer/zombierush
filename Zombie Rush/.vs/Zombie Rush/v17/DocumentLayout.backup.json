@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|c:\\users\\zak\\zombierush\\zombie rush\\assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|c:\\users\\zak\\zombierush\\zombie rush\\assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|c:\\users\\zak\\zombierush\\zombie rush\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\gunso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gunso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,6 +55,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:43:23.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:32:28.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GunSO.cs",
+              "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\GunSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GunSO.cs",
+              "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\GunSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GunSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:21:35.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:29:26.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Gun.cs",
               "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\Gun.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Gun.cs",
@@ -46,12 +112,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Gun.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T15:12:15.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T15:12:15.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GameCamera.cs",
               "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\GameCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameCamera.cs",
@@ -63,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
