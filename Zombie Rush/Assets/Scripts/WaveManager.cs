@@ -31,7 +31,6 @@ public class WaveManager : MonoBehaviour
         enemiesToSpawn = currentWave + 2;
         for (int i = 0; i < enemiesToSpawn; i++)
         {
-            print("YUP");
             AttemptSpawn();
         }
     }
@@ -41,7 +40,6 @@ public class WaveManager : MonoBehaviour
         {          
             if (spawner.GetComponent<Spawner>().isVisible == false)
             {
-                Debug.Log("YUP2");
                 SpawnEnemy(enemy,spawner.transform);
                 return;
             }

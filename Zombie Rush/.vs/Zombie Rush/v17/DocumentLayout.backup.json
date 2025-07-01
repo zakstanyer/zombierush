@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|c:\\users\\zak\\zombierush\\zombie rush\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|c:\\users\\zak\\zombierush\\zombie rush\\assets\\scripts\\enemybasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|c:\\users\\zak\\zombierush\\zombie rush\\assets\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|c:\\users\\zak\\zombierush\\zombie rush\\assets\\scripts\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -75,28 +75,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EnemyMovement.cs",
-              "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovement.cs",
-              "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Title": "EnemyBaseState.cs",
+              "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyBaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBaseState.cs",
+              "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyBaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBaseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T10:15:32.249Z",
+              "WhenOpened": "2025-07-01T11:31:43.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LookAtCamera.cs",
-              "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\LookAtCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\LookAtCamera.cs",
-              "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\LookAtCamera.cs",
-              "RelativeToolTip": "Assets\\LookAtCamera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T10:12:21.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T10:15:32.249Z"
             },
             {
               "$type": "Document",
@@ -120,8 +119,7 @@
               "RelativeToolTip": "Assets\\Scripts\\WaveManager.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAuwCkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T10:01:05.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T10:01:05.066Z"
             },
             {
               "$type": "Document",

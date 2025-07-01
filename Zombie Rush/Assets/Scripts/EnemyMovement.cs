@@ -8,9 +8,12 @@ public class EnemyMovement : MonoBehaviour
 {
     private NavMeshAgent agent;
     private GameObject player;
+    private GameObject[] waypoints;
+    public GameObject currentWaypoint;
     // Start is called before the first frame update
     void Start()
     {
+        waypoints = GameObject.FindGameObjectsWithTag("Waypoint");
         player = GameObject.FindGameObjectWithTag("Player");
         agent = GetComponent<NavMeshAgent>();
 
@@ -23,6 +26,14 @@ public class EnemyMovement : MonoBehaviour
         {
             MoveToPlayer();
         }
+
+    }
+
+    public void Roam()
+    {
+        int i = Random.Range(0, waypoints.Length-1);
+        currentWaypoint = waypoints[i];
+        agent.destination = currentWaypoint.transform.position;
     }
 
     private void MoveToPlayer()
