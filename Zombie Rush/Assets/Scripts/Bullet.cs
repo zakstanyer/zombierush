@@ -25,5 +25,15 @@ public class Bullet : MonoBehaviour
     void OnCollisionEnter(Collision collision)
     {
         Destroy(gameObject);
+        if(collision.gameObject.tag == "Enemy")
+        {
+            collision.gameObject.GetComponent<EnemyHealthManager>().health -= 10;
+            if(collision.gameObject.GetComponent<EnemyHealthManager>().health <= 0)
+            {
+                collision.gameObject.GetComponent<EnemyHealthManager>().Die();
+
+
+            }
+        }
     }
 }

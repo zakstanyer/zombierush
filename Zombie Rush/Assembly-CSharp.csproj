@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\EnemyMovement.cs" />
     <Compile Include="Assets\Scripts\GunSO.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\EnemyHealthManager.cs" />
     <Compile Include="Assets\Scripts\EnemyStateManager.cs" />
     <Compile Include="Assets\Scripts\EnemyBaseState.cs" />
     <Compile Include="Assets\Scripts\EnemyChaseState.cs" />

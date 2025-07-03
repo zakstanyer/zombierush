@@ -391,6 +391,7 @@
 "Assets/Scripts/Bullet.cs"
 "Assets/Scripts/EnemyBaseState.cs"
 "Assets/Scripts/EnemyChaseState.cs"
+"Assets/Scripts/EnemyHealthManager.cs"
 "Assets/Scripts/EnemyMovement.cs"
 "Assets/Scripts/EnemyRoamState.cs"
 "Assets/Scripts/EnemyStateManager.cs"

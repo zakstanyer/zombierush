@@ -694,7 +694,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 1
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Color: {r: 1, g: 0, b: 0.0463562, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -1413,7 +1413,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 1
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Color: {r: 0.6415094, g: 0.6415094, b: 0.6415094, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -1571,9 +1571,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 407057b96ffbe8045bb26e601947117b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  currentWave: 0
   spawners: []
   enemiesToSpawn: 0
   enemy: {fileID: 5244597771604804206, guid: da605de6edffa8943a7efdda6212d2ba, type: 3}
+  waveText: {fileID: 512030163}
 --- !u!4 &864081741
 Transform:
   m_ObjectHideFlags: 0
