@@ -284,7 +284,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16501d6087a1e114992d41b5fe63cc74, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inventory: []
+  inventory:
+  - {fileID: 11400000, guid: edc52861921606345a69f4475e30472d, type: 2}
+  - {fileID: 11400000, guid: 924ffa6c56e619c49a74286adeeaf067, type: 2}
 --- !u!4 &102224541
 Transform:
   m_ObjectHideFlags: 0
@@ -1571,6 +1573,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 407057b96ffbe8045bb26e601947117b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enemiesAlive: 0
   currentWave: 0
   spawners: []
   enemiesToSpawn: 0

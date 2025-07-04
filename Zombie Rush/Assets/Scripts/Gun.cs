@@ -19,13 +19,13 @@ public class Gun : MonoBehaviour
     [Header("Number of times the gun can shoot per second.")]
     public float rateOfFire;
     public GameObject bullet;
-
+    private Player player;
     private float timer = 0;
 
     // Start is called before the first frame update
     void Start()
     {
-
+        player = GetComponentInParent<Player>();
     }
 
     // Update is called once per frame
@@ -33,7 +33,7 @@ public class Gun : MonoBehaviour
     {
         if(timer > 0)
         {
-            timer -= Time.deltaTime / rateOfFire;
+            timer -= Time.deltaTime / player.rateOfFire;
         }
     }
 
@@ -45,7 +45,6 @@ public class Gun : MonoBehaviour
             timer = 1;
             GameObject _bullet = Instantiate(bullet, spawn.transform.position, Quaternion.identity);
             _bullet.GetComponent<Rigidbody>().AddForce(transform.forward * 20, ForceMode.Impulse);
-
             Ray ray = new Ray(spawn.position, spawn.forward);
             RaycastHit hit;
 

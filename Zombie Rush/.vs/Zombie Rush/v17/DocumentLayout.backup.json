@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|c:\\users\\zak\\zombierush\\zombie rush\\assets\\scripts\\enemyhealthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|c:\\users\\zak\\zombierush\\zombie rush\\assets\\scripts\\gunso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gunso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\enemyhealthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhealthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|c:\\users\\zak\\zombierush\\zombie rush\\assets\\scripts\\enemystatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\enemystatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemystatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16F93ECF-A6C3-EF87-7CE1-852E1D4DE3BD}|Assembly-CSharp.csproj|C:\\Users\\Zak\\zombierush\\Zombie Rush\\assets\\scripts\\enemyroamstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,28 +71,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GunSO.cs",
+              "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\GunSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GunSO.cs",
+              "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\GunSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GunSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:46:59.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:46:05.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EnemyHealthManager.cs",
               "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyHealthManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHealthManager.cs",
               "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyHealthManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyHealthManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T11:57:19.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T11:57:19.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
               "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\Bullet.cs",
               "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T11:53:55.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T11:53:55.263Z"
             },
             {
               "$type": "Document",
@@ -94,14 +125,13 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\WaveManager.cs",
               "ToolTip": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\WaveManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\WaveManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwC0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T11:48:11.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T11:48:11.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "EnemyStateManager.cs",
               "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyStateManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyStateManager.cs",
@@ -109,12 +139,11 @@
               "RelativeToolTip": "Assets\\Scripts\\EnemyStateManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T11:34:11.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T11:34:11.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EnemyRoamState.cs",
               "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyRoamState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyRoamState.cs",
@@ -126,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "EnemyChaseState.cs",
               "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyChaseState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyChaseState.cs",
@@ -138,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "EnemyBaseState.cs",
               "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyBaseState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBaseState.cs",
@@ -150,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EnemyMovement.cs",
               "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\EnemyMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovement.cs",
@@ -162,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Spawner.cs",
               "DocumentMoniker": "C:\\Users\\Zak\\zombierush\\Zombie Rush\\Assets\\Scripts\\Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
